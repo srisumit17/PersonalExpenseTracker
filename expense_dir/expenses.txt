@@ -1,0 +1,9 @@
+{'date': '2025-10-01', 'category': 'Food', 'amount': '108', 'description': 'Food Eaten'}
+{'date': '2025-10-04', 'category': 'Travel', 'amount': '10800', 'description': 'Travelling to France'}
+{'date': '5', 'category': 'Gaming', 'amount': '1100', 'description': 'Gaming In France'}
+{'date': '2025-10-02', 'category': 'Club', 'amount': '10000', 'description': 'Club Enjoyment In Paris'}
+{'date': '2025-10-04', 'category': 'Party', 'amount': '10000', 'description': 'Party with friends'}
+{'date': '2025-10-04', 'category': 'Trekking', 'amount': '10009', 'description': 'Treeking on mountain'}
+{'date': '2025-10-09', 'category': 'Travelling', 'amount': '10000', 'description': 'Travelling to Switzerland'}
+{'date': '2025-10-08', 'category': 'Shopping', 'amount': '10500', 'description': 'Shopping in europe'}
+{'date': '2025-10-04', 'category': 'Movie', 'amount': '1000', 'description': 'Movie Watch Hollywood'}
